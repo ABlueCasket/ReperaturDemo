@@ -75,7 +75,7 @@
             button4.TabIndex = 3;
             button4.Text = "Programm neu starten";
             button4.UseVisualStyleBackColor = true;
-            //button4.Click += button4_Click;
+            button4.Click += button4_Click;
             // 
             // Form1
             // 
